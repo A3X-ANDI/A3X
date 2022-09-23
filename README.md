@@ -30,6 +30,8 @@ git clone https://github.com/A3X-ANDI/A3X.git
 
 cd A3X
 
+git pull
+
 python A3XX.py
 
 dah kontol
