@@ -1,6 +1,8 @@
 Tool Sederhana Untuk Crack Facebook
 
-Cara Install Scripts pkg update && pkg upgrade
+Cara Install Scripts 
+
+pkg update && pkg upgrade
 
 termux-setup-storage
 
@@ -23,3 +25,11 @@ pip install futures
 pip install rich
 
 pip install mechanize
+
+git clone https://github.com/A3X-ANDI/A3X.git
+
+cd A3X
+
+python A3XX.py
+
+dah kontol
